@@ -63,7 +63,7 @@
       - **Imutável**: Uma vez registrada, uma transação não pode ser alterada ou apagada.
       - **Transparente**: Qualquer pessoa pode visualizar todas as transações feitas com Bitcoin.
 
-   
+   - [Como funciona a blockchain?](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 
 ---
 
@@ -80,6 +80,8 @@
       - ![Oferta de Bitcoins](oferta_de_bitcoins.png)
    - 🤝 **Pool de mineração**:
       - Grupo de mineradores que se unem para aumentar chances de sucesso.
+
+- [O que é mineração de Bitcoin?](https://www.youtube.com/watch?v=GmOzih6I1zs)
 
 ---
 
@@ -113,7 +115,7 @@
 
 ---
 
-## **Slide 10: Instalação do Bitcoin Core**
+## **Instalação do Bitcoin Core**
 ### **Passos:**
 1. Baixe o Bitcoin Core: [Link para download](https://bitcoin.org/en/download).
 2. Extraia o arquivo:
@@ -138,7 +140,7 @@
 
 ---
 
-## **Slide 11: O que acontece ao iniciar o Bitcoin Core?**
+## **O que acontece ao iniciar o Bitcoin Core?**
 ### **Etapas principais**:
 1. 🌐 **Descoberta de peers**:
    - DNS seeds: Lista de IPs no código-fonte (arquivo `chainparams.cpp`, linha 112).
