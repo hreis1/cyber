@@ -7,13 +7,14 @@
 ---
 
 ## **Objetivo**
-- Apresentar o **Bitcoin**, uma moeda digital descentralizada.  
+- Apresentar o **Bitcoin**, uma moeda digital descentralizada.
 - Explicar seus fundamentos, funcionamento e possíveis aplicações no **Maino**.
 
 ---
 
 ## **Breve História do Bitcoin**
-- Criado em **2008** por **Satoshi Nakamoto** (pseudônimo).  
+- Criado em **2008** por **Satoshi Nakamoto** (pseudônimo).
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 - Objetivo: criar uma moeda **digital descentralizada** e independente de bancos ou governos.  
 
 ---
