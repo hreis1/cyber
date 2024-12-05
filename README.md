@@ -2,7 +2,7 @@
 
 # **Bitcoin**
 ### Por Paulo Henrique  
-**Trabalho na equipe de operações, atualmente focado no projeto JESSIE.**
+**Trabalho na equipe de operações, no projeto JESSIE.**
 
 ---
 
